@@ -1,0 +1,9 @@
+{
+  "name": "@insane-disk/local-filesystem-adapter",
+  "version": "0.0.0",
+  "author": "Yannick Fricke <yannickfricke@googlemail.com>",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
